@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Jan Äärelä. (@Jan-Aarela)
-- 👀 I’m interested in electronics & software.
-- 🌱 I’m currently learning electrical engieering.
-- 😄 Pronouns: Attack helicopter "Apache".
+- 📝 I’m currently studying electrical engineering at @unioulu.
+- 🚁 Pronouns: Attack helicopter "Apache".
 - ⚡ Fun fact: I like pancakes.
 
 <!---
