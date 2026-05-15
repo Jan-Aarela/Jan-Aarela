@@ -9,7 +9,7 @@
   <i>Who dabbles with programming.</i></p>
          <br />
             <br />
-      <a href="YOUR_LINKEDIN_URL">
+      <a href="https://www.linkedin.com/in/jan-%C3%A4%C3%A4rel%C3%A4/">
         <img src="https://img.shields.io/badge/LinkedIn-89b4fa?style=for-the-badge&logo=linkedin&logoColor=1e1e2e" />
       </a>
               <a href="mailto:jan.suomi.fin@gmail.com">
