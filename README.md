@@ -4,7 +4,7 @@
 <h4 align="left">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jan-aarela&layout=compact&theme=catppuccin_mocha" align="right" />
 
-  <h4>⚡ Electronics student @ University of Oulu.</h4>
+  <h3>⚡ Electronics student @ University of Oulu.</h3>
   <i>Who dabbles with programming.</i>
   <br />
   <br />
