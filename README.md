@@ -1,14 +1,12 @@
 <!-- ![alt_text](image.png) -->
 
 
-<p align="left">
+<h4 align="left">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jan-aarela&layout=compact&theme=catppuccin_mocha" align="right" />
 
-  <br />
-  <b>Electronics student @ University of Oulu.</b><br />
+  <h4>⚡ Electronics student @ University of Oulu.</h4>
   <i>Who dabbles with programming.</i>
-  <br /><br />
-  
+  <br />
   <br />
 
   <a href="https://www.linkedin.com/in/jan-%C3%A4%C3%A4rel%C3%A4/">
@@ -19,3 +17,4 @@
   </a>
 </p>
 <br clear="right" />
+
