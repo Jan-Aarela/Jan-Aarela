@@ -1,14 +1,17 @@
 <!-- ![alt_text](image.png) -->
 
+<style>
+  table#table1 td {
+    border: none;
+  }
+</style>
 
-
-<table border="0">
+<table border="0" id="table1">
   <tr>
     <td width="50%" valign="top" align="center">
         <p><b>Electronics student @ University of Oulu.</b><br />
   <i>Who dabbles with programming.</i></p>
-         <br />
-            <br />
+            <p style="letter-spacing: 25px; font-size: 20px; padding-left: 25px;">⚡🎓🖥️</p>
       <a href="https://www.linkedin.com/in/jan-%C3%A4%C3%A4rel%C3%A4/">
         <img src="https://img.shields.io/badge/LinkedIn-89b4fa?style=for-the-badge&logo=linkedin&logoColor=1e1e2e" />
       </a>
@@ -22,3 +25,5 @@
     </td>
   </tr>
 </table>
+
+
