@@ -3,7 +3,7 @@
 <p align="center">
     <b>Electronics student at University of Oulu</b>
     <br />
-    .·˙·.·˙·.·˙·.·˙·.·˙·.·˙·. ⚡ .·˙·.·˙·.·˙·.·˙·.·˙·.·˙·. 
+    ..·˙˙·..·˙˙·..·˙˙·..·˙˙·.. ⚡ ..·˙˙·..·˙˙·..·˙˙·..·˙˙·..
     <br />
     <i>Who dabbles with programming.</i>
     <br />
